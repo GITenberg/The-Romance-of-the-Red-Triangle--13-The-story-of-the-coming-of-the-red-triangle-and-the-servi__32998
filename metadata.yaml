@@ -1,0 +1,38 @@
+_repo: The-Romance-of-the-Red-Triangle--13-The-story-of-the-coming-of-the-red-triangle-and-the-servi__32998
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Starmer, W. P.
+    gutenberg_agent_id: '36155'
+    url: http://www.gutenberg.org/2009/agents/36155
+  - agent_name: Wright, Edgar
+    gutenberg_agent_id: '36156'
+    url: http://www.gutenberg.org/2009/agents/36156
+covers:
+- cover_type: archival
+  image_path: 32998-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Yapp, Arthur K. (Arthur Keysall)
+    alias: Yapp, Arthur Keysall
+    birthdate: 1869
+    deathdate: 1936
+    gutenberg_agent_id: '36154'
+    url: http://www.gutenberg.org/2009/agents/36154
+description: ''
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32998'
+  lccn: '19006685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- War work -- Young Men''s Christian Associations'
+- !lcc 'D501'
+title: "The Romance of the Red Triangle\r\nThe story of the coming of the red triangle\
+  \ and the service rendered by the Y.M.C.A. to the sailors and soldiers of the British\
+  \ Empire"
+url: http://www.gutenberg.org/ebooks/32998
